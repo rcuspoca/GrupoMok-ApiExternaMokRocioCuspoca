@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiExternaMok", "ApiExternaMok\ApiExternaMok.csproj", "{8BAD67B7-0A2F-4229-A057-2BABD68B0884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BAD67B7-0A2F-4229-A057-2BABD68B0884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BAD67B7-0A2F-4229-A057-2BABD68B0884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BAD67B7-0A2F-4229-A057-2BABD68B0884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BAD67B7-0A2F-4229-A057-2BABD68B0884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6974B02-80AA-48FA-85D2-DD99C39C07EE}
+	EndGlobalSection
+EndGlobal
